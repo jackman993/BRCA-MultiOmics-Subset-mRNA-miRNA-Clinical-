@@ -52,8 +52,7 @@ Run:
 
 python brca_demo_pipeline.py
 
-csharp
-複製程式碼
+
 
 Python 3.8+ is recommended. Required packages:
 
@@ -62,8 +61,6 @@ numpy
 scikit-learn
 matplotlib
 
-yaml
-複製程式碼
 
 ---
 
@@ -73,8 +70,7 @@ If you use this dataset or pipeline, please cite:
 
 Wu C.-H. (2025). BRCA-Multi: A Mini Multi-Omics Benchmark Dataset for Methodological Prototyping.
 Zenodo. https://doi.org/0009-0001-3396-6835
-yaml
-複製程式碼
+
 
 (Will update after DOI is issued)
 
