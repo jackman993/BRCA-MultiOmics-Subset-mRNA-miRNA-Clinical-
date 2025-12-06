@@ -54,8 +54,8 @@ python brca_demo_pipeline.py
 
 
 
-Python 3.8+ is recommended. Required packages:
-
+Python 3.8+ is recommended. 
+Required packages:
 pandas
 numpy
 scikit-learn
