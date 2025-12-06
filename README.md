@@ -49,8 +49,6 @@ Running the pipeline produces:
 All input files originate from the TCGA GDAC Firehose public repository (2016-01-28 release).  
 Only processed, non-identifiable files were used.
 
----
 
-## 🚀 Usage
 
 Run:
