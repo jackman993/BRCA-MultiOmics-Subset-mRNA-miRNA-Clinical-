@@ -49,5 +49,9 @@ Running the pipeline produces:
 All input files originate from the TCGA GDAC Firehose public repository (2016-01-28 release).  
 Only processed, non-identifiable files were used.
 
+<img width="4164" height="1539" alt="variance_mrna" src="https://github.com/user-attachments/assets/85e89dee-114c-4b3e-aaf2-fa71f267060c" />
+
+<img width="2303" height="2064" alt="pca_mrna" src="https://github.com/user-attachments/assets/d2ddaa18-b1d4-4ce4-bdc0-400544da2cf9" />
+
 
 
