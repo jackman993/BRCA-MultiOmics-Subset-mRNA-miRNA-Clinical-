@@ -48,6 +48,51 @@ Running the pipeline produces:
 
 All input files originate from the TCGA GDAC Firehose public repository (2016-01-28 release).  
 Only processed, non-identifiable files were used.
+Run:
+
+python brca_demo_pipeline.py
+
+csharp
+複製程式碼
+
+Python 3.8+ is recommended. Required packages:
+
+pandas
+numpy
+scikit-learn
+matplotlib
+
+yaml
+複製程式碼
+
+---
+
+## 📚 Citation (Draft)
+
+If you use this dataset or pipeline, please cite:
+
+Wu C.-H. (2025). BRCA-Multi: A Mini Multi-Omics Benchmark Dataset for Methodological Prototyping.
+Zenodo. https://doi.org/0009-0001-3396-6835
+yaml
+複製程式碼
+
+(Will update after DOI is issued)
+
+---
+
+## 📜 License
+
+Open Data Commons (ODC-By) license for dataset.  
+MIT license for software code.
+
+---
+
+## 🧑‍💻 Maintainer
+
+Chi-Hsing Wu  
+TaiScience Research Group  
+https://www.taiscience.org  
+
 
 <img width="4164" height="1539" alt="variance_mrna" src="https://github.com/user-attachments/assets/85e89dee-114c-4b3e-aaf2-fa71f267060c" />
 
