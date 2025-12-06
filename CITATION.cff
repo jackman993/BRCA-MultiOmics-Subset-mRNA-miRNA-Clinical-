@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use BRCA-Multi dataset or pipeline, please cite this work."
+title: "BRCA-Multi: A Mini Multi-Omics Benchmark Dataset for Methodological Prototyping"
+version: "1.0.0"
+doi: "10.5281/zenodo.xxxxxxx"   # ← 等 Zenodo 給你 DOI 後填上
+date-released: "2025-12-06"
+
+authors:
+  - family-names: "Wu"
+    given-names: "C.-H."
+    orcid: "https://orcid.org/0000-0001-3396-6835"
+
+keywords:
+  - multi-omics
+  - BRCA
+  - miRNA
+  - mRNA
+  - benchmark dataset
+  - machine learning
+  - PCA
+  - attention pooling
+
+abstract: |
+  BRCA-Multi is a curated mini multi-omics benchmark dataset designed for rapid
+  prototyping of methodological innovations, including dimensionality reduction,
+  clustering, attention-enhanced representations, and pipeline development for
+  miRNA and mRNA-based subtype exploration.
+
+license: "CC-BY-4.0"
+
+repository-code: "https://github.com/your-repo-url"
+
+preferred-citation:
+  type: dataset
+  authors:
+    - family-names: "Wu"
+      given-names: "C.-H."
+      orcid: "https://orcid.org/0000-0001-3396-6835"
+  title: "BRCA-Multi: A Mini Multi-Omics Benchmark Dataset"
+  year: 2025
+  doi: "10.5281/zenodo.xxxxxxx"
