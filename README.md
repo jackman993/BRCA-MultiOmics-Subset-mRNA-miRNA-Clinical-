@@ -69,6 +69,7 @@ If you use this dataset or pipeline, please cite:
 
 Wu C.-H. (2025). BRCA-Multi: A Mini Multi-Omics Benchmark Dataset for Methodological Prototyping.
 https://orcid.org/0009-0001-3396-6835
+
 https://doi.org/10.5281/zenodo.17840086
 
 (Will update after DOI is issued)
